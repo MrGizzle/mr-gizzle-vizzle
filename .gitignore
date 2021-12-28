@@ -5,14 +5,12 @@ bin-release/
 [Bb]in/
 
 # Other files and folders
-.settings/
+settings/
 
 # Executables
-*.swf
-*.air
-*.ipa
-*.apk
+#swf
+#air
+#ipa
+#apk
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexPro
